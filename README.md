@@ -1,8 +1,8 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
+<h1 align="center">MERN Stack Project</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/Dukz-3mS3Us)
+
 
 About This Course:
 
@@ -12,7 +12,7 @@ About This Course:
 -   🐞 Error Handling
 -   🌐 Deployment
 -   🚀 And Many More Cool Features
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
+
 
 ### Setup .env file
 
