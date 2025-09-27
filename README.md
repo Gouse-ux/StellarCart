@@ -35,4 +35,4 @@ npm run start
 
 ### I'll see you in the next one! 🚀
 
-<h2>Live demo link :- https://stellarcart-027b.onrender.com/</h2>
+<h2>Live demo link :- <a href="https://stellarcart-027b.onrender.com/" target="_blank">Click Here to watch Live</h2>
